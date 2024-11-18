@@ -124,4 +124,4 @@ This project is licensed under the Appache 2.0 License - see the LICENSE file fo
 
 - FaceNet PyTorch implementation
 - MTCNN paper and implementation
-- LFW dataset
+- [Labelled Faces in the Wild (LFW) Dataset](https://www.kaggle.com/datasets/jessicali9530/lfw-dataset)
